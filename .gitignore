@@ -1,0 +1,10 @@
+.env
+*.log
+__pycache__/
+*.pyc
+node_modules/
+bin/
+obj/
+*.class
+target/
+vendor/
