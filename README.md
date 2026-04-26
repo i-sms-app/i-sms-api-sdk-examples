@@ -42,6 +42,13 @@ https://www.i-sms.app
 
 ## 鉴权方式
 
+### 如何获取 API Key
+
+1. 打开爱接码官网 `https://www.i-sms.app` 并注册账号。
+2. 登录后进入 API 管理页面：`https://www.i-sms.app/platform/api-management`。
+3. 在 API 管理页面生成 API Key。
+4. 将生成的 API Key 保存到环境变量 `ISMS_API_KEY`，或按需配置到你自己的服务端环境中。
+
 所有示例默认使用请求头鉴权：
 
 ```http
@@ -327,6 +334,13 @@ According to the current API documentation:
 Whenever a V2 or newer API is available in the documentation, developers should prioritize the latest API to ensure functionality and security.
 
 ## Authentication
+
+### How To Get An API Key
+
+1. Open the i-SMS website at `https://www.i-sms.app` and register an account.
+2. After logging in, go to the API Management page: `https://www.i-sms.app/platform/api-management`.
+3. Generate an API Key on the API Management page.
+4. Save the generated API Key to the `ISMS_API_KEY` environment variable, or configure it in your own server-side environment as needed.
 
 All examples use request-header authentication by default:
 
