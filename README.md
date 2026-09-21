@@ -104,7 +104,7 @@ ISMS_API_KEY=sk_xxxxxxxxxxxxxxxxx
       "province": "归属地或省份",
       "carrier": "运营商",
       "status": "active",
-      "userId": 1,
+      "userId": "3f2b8c1e-9a4d-4e7b-b1c6-5d8f0a2e7c91",
       "orderId": "订单ID"
     }
   ],
@@ -397,7 +397,7 @@ Successful number request:
       "province": "province or attribution location",
       "carrier": "carrier",
       "status": "active",
-      "userId": 1,
+      "userId": "3f2b8c1e-9a4d-4e7b-b1c6-5d8f0a2e7c91",
       "orderId": "order ID"
     }
   ],
